@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - React-Native
 - Android-Studio
 
-<a href="https://instagram.com/alpox.dev">
+<a href="https://naver.com">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://naver.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
