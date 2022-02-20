@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 <div>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/-hihi-brightgreen"/></a>&nbsp
     <img 
         src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
