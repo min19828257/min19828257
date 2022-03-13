@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 ## Stack
 
-- React.js
+- JAVA Spring
 - Node.js
-- React-Native
-- Android-Studio
+- Python
+- Golang
 
 <div>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
